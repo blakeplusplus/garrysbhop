@@ -2,6 +2,8 @@
 
 Garry's Bhop was a Garry's Mod Bunnyhop server ran by me (via NFOservers) that aimed to provide the best experience for bhoppers possible. It fully lived from September 19, 2019 to February 26, 2020. The FastDL lived from September 19, 2019 to November 23, 2023.
 
+# DO NOT ASK HOW ME TO SET THIS UP. I HAVE NOT TOUCHED GMOD SERVERS IN YEARS, I DO NOT KNOW.
+
 ## FastDL/Map List Overview
 
 Last update: October 23, 2023 \

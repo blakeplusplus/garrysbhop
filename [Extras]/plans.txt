@@ -1,0 +1,36 @@
+here was the stuff that we planned to do but never got to because of various reasons.
+
+things that a dev needs to do:
+high priority
+-add segment with bindable cp menu
+-remove extreme
+-add wait timer to pause/play
+-fix player name labels
+-restart confirmation
+medium priority
+-make lj stats be more consistent
+-change least played map to do random
+-add fullbright command
+low priority
+-add every jump UNTIL 6th to ssj
+-add mouseleft and mouseright to !keys
+-if player is afk for >5 minutes, their vote doesn't count towards votes required to rtv. once they come back, their rtv is required. ignore binds to stay unafk. add to current afk module?
+-add sync to moon man, cancer, cheater, high grav, etc
+-!mywr still broken
+
+shit i need to do:
+zone bigcity
+fix stupid noclip thing
+
+mapping:
+fix kz_bhop_strafe_reborn ladders
+fix/remove puppeteer skip teleport
+fix nxo_strafe ladder
+fix koryouz_gm ladders
+fix retribution AGAIN
+fix strafe_sepulchre end sections
+fix harmony boosters
+fix algetic ladders
+fix strafe_reborn ladders
+
+ask muta wtf is going on with chronology, collective, exotic_v2
