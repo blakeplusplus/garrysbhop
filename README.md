@@ -2,6 +2,36 @@
 
 Garry's Bhop was a Garry's Mod Bunnyhop server ran by me (via NFOservers) that aimed to provide the best experience for bhoppers possible. It fully lived from September 19, 2019 to February 26, 2020. The FastDL lived from September 19, 2019 to November 23, 2023.
 
+## FastDL/Map List Overview
+
+Last update: October 23, 2023 \
+Last map reviewed: bhop_vietkz
+
+This is a curated list of bhop-centric maps catered towards Garry's Mod bunnyhop servers and players. Previously, it was a FastDL.
+
+CS:S/Momentum Mod players can still definitely use this, but I cannot guarantee that every map will be perfectly completable. There are, at the time of writing, 22 maps made/modified especially for GMOD on this map list. If it doesn't have _gm at the end, you're probably fine to play it wherever.
+
+**Q:** What makes this map list different from any other FastDL? \
+**A:** I have personally vetted every single map on Gamebanana's CS:S Bhop map page by looking at the listing and ensuring the map passes a basic inspection. Most FastDLs take any map that's ever been made and put it on their FastDL.
+Here's the ruleset that I use to determine if a map will be added (in order of importance):
+1. Does the map look decent?
+1. Is the map a bfur clone (AKA only strafing in essentially a straight line with no significant changes?)
+1. Does the mapper supply enough screenshots? (If there's not enough screenshots, I don't download.)
+1. Does the mapper seem like they care about their work? (profile picture, map description actually being used, etc)
+2. Is the map from a known mapper?
+3. Is it a compilation map of maps already on the list that doesn't really add anything to the gameplay? (If it doesn't add, I don't add)
+
+There are exceptions to the above rules (ex: for ports); those are decided on a case-by-case basis.
+
+**Q:** What about maps not on Gamebanana? \
+**A:** I have some of the more popular ones that aren't on Gamebanana. For those, I usually vet them by word of mouth (a friend says it's good), playing the map myself, or it being a "classic" (ex: bh_aztec).
+
+**Q:** You have one version of a map, but not the other (ex: freedompuppies). \
+**A:** Some older maps have had a ton of remakes/remasters/retextures. With freedompuppies, I believe the one I have is a retexture only that makes the map look less terrible.
+
+**Q:** You don't have a map I think should be added/A map is not updated. \
+**A:** Fork this repository; I don't do any more updates to this.
+
 ## Backstory
 (To the best of my memory anyway) \
 Note that I do not intend to try and draw shit to anyone. I am not innocent either. There are things I wish I could go back and fix, but ultimately this is my honest rendition of how the story went and generally how I felt.
