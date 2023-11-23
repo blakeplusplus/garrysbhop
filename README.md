@@ -1,6 +1,6 @@
 # ![Garry's Bhop Logo; unknown source](https://github.com/blakeplusplus/garrysbhop/assets/76140847/1c649fa6-0f6c-4cba-8374-dbf7db080ef8) Garry's Bhop
 
-Garry's Bhop was a Garry's Mod Bunnyhop server ran by me (via NFOservers) that aimed to provide the best experience for bhoppers possible. It fully lived from September 19, 2019 to February 26, 2020.
+Garry's Bhop was a Garry's Mod Bunnyhop server ran by me (via NFOservers) that aimed to provide the best experience for bhoppers possible. It fully lived from September 19, 2019 to February 26, 2020. The FastDL lived from September 19, 2019 to November 23, 2023.
 
 ## Backstory
 (To the best of my memory anyway) \
