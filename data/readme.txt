@@ -1,0 +1,1 @@
+bhop folder contains bot data
