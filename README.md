@@ -7,6 +7,8 @@ Garry's Bhop was a Garry's Mod Bunnyhop server ran by me (via NFOservers) that a
 Last update: October 23, 2023 \
 Last map reviewed: bhop_vietkz
 
+I used [this directory lister](https://github.com/mesbahulalam/Simple-Directory-Lister/) to list all the maps and files. Lightly modified it to have a darker theme.
+
 This is a curated list of bhop-centric maps catered towards Garry's Mod bunnyhop servers and players. Previously, it was a FastDL.
 
 CS:S/Momentum Mod players can still definitely use this, but I cannot guarantee that every map will be perfectly completable. There are, at the time of writing, 22 maps made/modified especially for GMOD on this map list. If it doesn't have _gm at the end, you're probably fine to play it wherever.
