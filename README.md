@@ -9,7 +9,7 @@ Garry's Bhop was a Garry's Mod Bunnyhop server ran by me (via NFOservers) that a
 Last update: October 23, 2023 \
 Last map reviewed: bhop_vietkz
 
-The exact FastDL is mirrored onto fastdl.me [here](https://main.fastdl.me/maps_czarchasm.html)! We :heart: [fastdl.me](https://fastdl.me)!!!
+The exact FastDL is mirrored onto fastdl.me [here](https://main.fastdl.me/maps_czarchasm.html)! We :heart: [fastdl.me](https://fastdl.me)!!! \
 [Final map list is available here!](https://github.com/blakeplusplus/garrysbhop/blob/main/%5BExtras%5D/final-map-list.txt)
 
 Some notes about the list:
