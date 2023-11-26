@@ -43,8 +43,8 @@ There are exceptions to the above rules (ex: for ports); those are decided on a 
 **Q:** You have one version of a map, but not the other (ex: freedompuppies). \
 **A:** Some older maps have had a ton of remakes/remasters/retextures. With freedompuppies, I believe the one I have is a retexture only that makes the map look less terrible.
 
-**Q:** You don't have a map I think should be added/A map is not updated. \
-**A:** Fork this repository; I don't do any more updates to this.
+**Q:** Why'd you take it down? \
+**A:** I've been doing this quite a while, and at this point, I just don't want to do it anymore. I don't have a lot of purpose in doing it; it's for a community that I'm not really a part of. I know I had a few people that were using it, but with fastdl.me, there's not much point in having my own service. Much easier to just let fastdl.me take over; they were even kind enough to put a list of what I had so you can scrape it real easy! It was a phenomenal run though. Thanks for being there :D
 
 ## Backstory
 (To the best of my memory anyway) \
