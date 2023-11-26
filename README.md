@@ -9,7 +9,8 @@ Garry's Bhop was a Garry's Mod Bunnyhop server ran by me (via NFOservers) that a
 Last update: October 23, 2023 \
 Last map reviewed: bhop_vietkz
 
-[Final list is available here!]()
+The exact FastDL is mirrored onto fastdl.me [here](https://main.fastdl.me/maps_czarchasm.html)! We :heart: [fastdl.me](https://fastdl.me)!!!
+[Final map list is available here!](https://github.com/blakeplusplus/garrysbhop/blob/main/%5BExtras%5D/final-map-list.txt)
 
 Some notes about the list:
 - I'm 99% sure bh0p_bigcity and bh0p_edgeparkour are just gm_bigcity and gm_edgeparkour renamed just to show that in the nomination list that these are in fact zoned. I can't say for certain.
