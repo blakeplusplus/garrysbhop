@@ -9,6 +9,15 @@ Garry's Bhop was a Garry's Mod Bunnyhop server ran by me (via NFOservers) that a
 Last update: October 23, 2023 \
 Last map reviewed: bhop_vietkz
 
+[Final list is available here!]()
+
+Some notes about the list:
+- I'm 99% sure bh0p_bigcity and bh0p_edgeparkour are just gm_bigcity and gm_edgeparkour renamed just to show that in the nomination list that these are in fact zoned. I can't say for certain.
+- bhop_flatzone_fix (which was previously on the website FastDL) is a CS:GO map, so it'll technically load in GMOD but I wouldn't trust it to be totally right. Changed to bhop_flatzone which should work.
+- bhop_dev_fix (which was previously on the website FastDL) just didn't have textures baked into it at all, so it's all missing textures. Total eyesore. Changed to bhop_dev which should work.
+- There are also two maps named bhop_displacements on Gamebanana. I'm 99% sure the one we used on Garry's Bhop was the one made by cheezz, so that map will be downloaded (name is bhop_displacements_cheezz.bsp).
+- If your count differs from mine, it's because we removed useless downloads (I had a .prt file in there for some reason) and also removed nav files.
+
 I used [this directory lister](https://github.com/mesbahulalam/Simple-Directory-Lister/) to list all the maps and files. Lightly modified it to have a darker theme.
 
 This is a curated list of bhop-centric maps catered towards Garry's Mod bunnyhop servers and players. Previously, it was a FastDL.
